@@ -1,4 +1,4 @@
-# bahasakore
+# bahasa kore
 Tools ini masih dalam tahap pengembangan, agar bahasa ini tidak benar-benar hilang, maka inisiatif untuk mendukentasikan dalam bentuk pemograman yang mudah agar bisa di cari.
 
 Bahasa kore adalah bahasa daerah yang berasal dari desa Kore, kecematan Sanggar, Kabupaten Bima.
